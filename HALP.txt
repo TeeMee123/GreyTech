@@ -1,0 +1,5 @@
+Compile the desktop version with the configuration shown here: https://www.youtube.com/watch?v=tuVjurLVPO4
+
+Compile and run the web version with the gradel task GreyTech > html > Tasks > gwt > superDev.
+
+Visit the running web version at localhost:8080/index.html
